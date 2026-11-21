@@ -1,0 +1,22 @@
+{
+  "total_objects": 0,
+  "people_count": 0,
+  "unique_classes_count": 0,
+  "crowd_metrics": {
+    "total_people": 0,
+    "close_pairs_count": 0,
+    "total_possible_pairs": 0,
+    "congestion_index": 0.0,
+    "clustered_indices": [],
+    "close_pairs": [],
+    "risk_level": "Empty"
+  },
+  "scale_distribution": {
+    "Small (<2%)": 0,
+    "Medium (2-15%)": 0,
+    "Large (>15%)": 0
+  },
+  "category_distribution": {},
+  "item_frequencies": {},
+  "detailed_detections": []
+}
