@@ -100,13 +100,20 @@ export GEMINI_API_KEY="your-api-key-here"
 
 ## 💻 How to Run
 
-### Option A: Launch Interactive Web Dashboard (Recommended)
+### Option A: Launch Standalone Interactive Webpage (Recommended)
+Double-click `index.html` in any web browser, or launch the lightweight local server:
+```bash
+python web_server.py
+```
+*Access in browser at `http://localhost:8000` (or deploy directly via **GitHub Pages**).*
+
+### Option B: Launch Interactive Streamlit Dashboard
 ```bash
 streamlit run app.py
 ```
 *Access in browser at `http://localhost:8501`.*
 
-### Option B: Run in Terminal (CLI Mode)
+### Option C: Run in Terminal (CLI Mode)
 ```bash
 # Basic detection on an image
 python main.py --image your_photo.jpg
@@ -161,7 +168,8 @@ No.  Object           Category       Count   Definition & Functional Purpose
 ---
 
 ## 👤 Author
-Developed by **Anas Saleem Khan**  
+Developed by **Anas Aleem**  
+Email: [anasaleemofficial@gmail.com](mailto:anasaleemofficial@gmail.com)  
 GitHub: [@anasaleemkhan](https://github.com/anasaleemkhan)
 
 ---
