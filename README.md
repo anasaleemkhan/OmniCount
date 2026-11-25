@@ -76,8 +76,8 @@ $$D(x, y) = \sum_{k=1}^{N} \exp\left( -\frac{(x - x_{c,k})^2 + (y - y_{c,k})^2}{
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/anasaleemkhan/people-count.git
-cd people-count
+git clone https://github.com/anasaleemkhan/OmniCount.git
+cd OmniCount
 ```
 
 ### 2. Install Dependencies
